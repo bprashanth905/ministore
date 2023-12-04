@@ -1,0 +1,14 @@
+body{
+    font-family: 'Jost', sans-serif;
+}
+.nav-link,.dropdown-item
+{
+    color:#333;
+    text-transform:uppercase;
+}
+.carousel-caption{
+    text-align: left;
+}
+.carousel-caption h5{
+    font-size: 80px!important;
+}
